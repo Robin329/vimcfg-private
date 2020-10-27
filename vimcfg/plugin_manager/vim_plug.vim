@@ -147,5 +147,6 @@ Plug 'mg979/vim-xtabline'
 Plug 'maxbrunsfeld/vim-yankstack'
 Plug 'blueyed/vim-diminactive'
 Plug 'puremourning/vimspector'
+Plug 'inkarkat/vim-mark'
 
 call plug#end()
